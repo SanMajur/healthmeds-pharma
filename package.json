@@ -1,0 +1,25 @@
+{
+  "name": "healthmeds-pharma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "postcss ./src/css/tailwind.css -o ./public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanMajur/healthmeds-pharma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanMajur/healthmeds-pharma/issues"
+  },
+  "homepage": "https://github.com/SanMajur/healthmeds-pharma#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
